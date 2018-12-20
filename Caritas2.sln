@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caritas2", "Caritas2\Caritas2.csproj", "{F30DBD35-01A8-4452-95CD-ECC610BE5947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30DBD35-01A8-4452-95CD-ECC610BE5947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30DBD35-01A8-4452-95CD-ECC610BE5947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30DBD35-01A8-4452-95CD-ECC610BE5947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30DBD35-01A8-4452-95CD-ECC610BE5947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE03AD6F-B5CE-40EA-94A5-2BED6480B041}
+	EndGlobalSection
+EndGlobal
